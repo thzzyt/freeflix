@@ -22,5 +22,17 @@
       "categoria":"filme",
       "url":"http://server-fhd01-2.lionflixapp.xyz/token/FHD1/tt8106534.mp4",
       "classificacion":"18"
+    },
+    {
+      "name": "Homem-Aranha: Sem volta para casa",
+      "img": "https://i.ibb.co/Q9q0V9Q/FCVsn-GYXo-AABY28.jpg",
+      "sinopse": "Peter Parker é desmascarado e não consegue mais separar sua vida normal dos grandes riscos de ser um super-herói. Quando ele pede ajuda ao Doutor Estranho, os riscos se tornam ainda mais perigosos, e o forçam a descobrir o que realmente significa ser o Homem-Aranha.",
+      "trailer": "https://youtu.be/CyiiEJRZjSU",
+      "date": "2021",
+      "genero":["Ação","Aventura","Fantasia"],
+      "time": "2h 28m",
+      "categoria":"filme",
+      "url": "https://videos.negociosmarkeitng.com/file/Spxnet/f/Homem-Aranha%20-%20Sem%20Volta%20Para%20Casa%202022%201080p%20BluRay%20DUAL%205.1.mkv",
+      "classificacion": "12"
     }
 ]
