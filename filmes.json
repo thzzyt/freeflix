@@ -1,38 +1,50 @@
 [
-    {
-      "name": "Resgate",
-      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVHRz73_FI29e3jxVwKUgcJMhwpKui6KBLyw&usqp=CAU",
-      "sinopse": "Contratado para resgatar o filho de um traficante, um mercenário se apega ao garoto e começa a questionar as próprias escolhas. E agora, quem vai salvar quem?",
-      "trailer": "https://youtu.be/j-OSa-cySXI",
-      "date": "2020",
-      "genero":["Ação","Thriller"],
-      "time": "1h 56m",
-      "categoria":"filme",
-      "url": "https://videos.negociosmarkeitng.com/file/Spxnet/f/Resgate.2020.720p.WEB-DL.6CH.x264.DUAL.WWW.MEUSFILMESTORRENTS.COM.mkv",
-      "classificacion": "16"
-    },
-    {
-      "name":"Esquadrão 6",
-      "img":"https://1.bp.blogspot.com/-VsnXvJxaNjA/XgaP8LzdOUI/AAAAAAAAAB0/9nvwJ6XUdSgjQv6egkkzafs0Kut59_Z-QCLcBGAsYHQ/s1600/Esquadr%25C3%25A3o%2B6.jpg",
-      "sinopse":"Após forjar a própria morte, um bilionário monta uma equipe de profissionais internacionais para a ousada e sanguinária missão de derrubar um ditador cruel.",
-      "trailer":"https://youtu.be/8hDdnYlNUZ4",
-      "date":"2019",
-      "genero":["Ação","Suspense"],
-      "time":"2h 8m",
-      "categoria":"filme",
-      "url":"http://server-fhd01-2.lionflixapp.xyz/token/FHD1/tt8106534.mp4",
-      "classificacion":"18"
-    },
-    {
-      "name": "Homem-Aranha: Sem volta para casa",
-      "img": "https://i.ibb.co/Q9q0V9Q/FCVsn-GYXo-AABY28.jpg",
-      "sinopse": "Peter Parker é desmascarado e não consegue mais separar sua vida normal dos grandes riscos de ser um super-herói. Quando ele pede ajuda ao Doutor Estranho, os riscos se tornam ainda mais perigosos, e o forçam a descobrir o que realmente significa ser o Homem-Aranha.",
-      "trailer": "https://youtu.be/CyiiEJRZjSU",
-      "date": "2021",
-      "genero":["Ação","Aventura","Fantasia"],
-      "time": "2h 28m",
-      "categoria":"filme",
-      "url": "https://videos.negociosmarkeitng.com/file/Spxnet/f/Homem-Aranha%20-%20Sem%20Volta%20Para%20Casa%202022%201080p%20BluRay%20DUAL%205.1.mkv",
-      "classificacion": "12"
-    }
+{
+"name": "Resgate",
+"img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVHRz73_FI29e3jxVwKUgcJMhwpKui6KBLyw&usqp=CAU",
+"sinopse": "Contratado para resgatar o filho de um traficante, um mercenário se apega ao garoto e começa a questionar as próprias escolhas. E agora, quem vai salvar quem?",
+"trailer": "https://youtu.be/j-OSa-cySXI",
+"date": "2020",
+"genero":["Ação","Thriller"],
+"time": "1h 56m",
+"categoria":"filme",
+"url": "https://videos.negociosmarkeitng.com/file/Spxnet/f/Resgate.2020.720p.WEB-DL.6CH.x264.DUAL.WWW.MEUSFILMESTORRENTS.COM.mkv",
+"classificacion": "16"
+},
+{
+"name":"Esquadrão 6",
+"img":"https://1.bp.blogspot.com/-VsnXvJxaNjA/XgaP8LzdOUI/AAAAAAAAAB0/9nvwJ6XUdSgjQv6egkkzafs0Kut59_Z-QCLcBGAsYHQ/s1600/Esquadr%25C3%25A3o%2B6.jpg",
+"sinopse":"Após forjar a própria morte, um bilionário monta uma equipe de profissionais internacionais para a ousada e sanguinária missão de derrubar um ditador cruel.",
+"trailer":"https://youtu.be/8hDdnYlNUZ4",
+"date":"2019",
+"genero":["Ação","Suspense"],
+"time":"2h 8m",
+"categoria":"filme",
+"url":"http://server-fhd01-2.lionflixapp.xyz/token/FHD1/tt8106534.mp4",
+"classificacion":"18"
+},
+{
+"name": "Homem-Aranha: Sem volta para casa",
+"img": "https://i.ibb.co/Q9q0V9Q/FCVsn-GYXo-AABY28.jpg",
+"sinopse": "Peter Parker é desmascarado e não consegue mais separar sua vida normal dos grandes riscos de ser um super-herói. Quando ele pede ajuda ao Doutor Estranho, os riscos se tornam ainda mais perigosos, e o forçam a descobrir o que realmente significa ser o Homem-Aranha.",
+"trailer": "https://youtu.be/CyiiEJRZjSU",
+"date": "2021",
+"genero":["Ação","Aventura","Fantasia"],
+"time": "2h 28m",
+"categoria":"filme",
+"url": "https://videos.negociosmarkeitng.com/file/Spxnet/f/Homem-Aranha%20-%20Sem%20Volta%20Para%20Casa%202022%201080p%20BluRay%20DUAL%205.1.mkv",
+"classificacion": "12"
+},
+{
+ "name":"Uncharted: Fora do Mapa",
+ "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDHKHjmjnfN-RvbZIdh9ktirkahPi5_2Rp4NvV2-GiGrZl6k5OagLSQeF-&s=10",
+ "sinopse":"Nathan Drake e seu parceiro canastrão Victor "Sully" Sullivan embarcam em uma perigosa busca para encontrar o maior tesouro jamais encontrado. Enquanto isso, eles também rastreiam pistas que podem levar ao irmão perdido de Nathan.",
+ "trailer":"https://youtu.be/hR0U_o7m1MA",
+ "date":"2022",
+ "genero":["Ação", "Aventura"],
+ "time":"1h 56m",
+ "categoria":"filme",
+ "url":"https://cdn1.networkfilmes.tk/440?f=ZDNjNTQ5Y2ViMDljMGQ4YiN8i42klYdhp4CHZKiKh2WqgIdoroGqiWd/eJekhnqGd4CdZat-dXFt&k=Mzg1NDM5ZjI3MDhmOWU0OCN9iI1hgXiTZ4Kqdat-hXFt&video.mp4",
+ "classificacion":"12"
+}
 ]
