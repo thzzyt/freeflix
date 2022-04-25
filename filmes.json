@@ -59,4 +59,16 @@
  "categoria":"filme",
  "url":"https://uauplayer.com/player/Er0flXDi4XStx2J/",
  "classificacion":"12"
+},
+{
+ "name":"The Batman",
+ "img":"https://jfccineplex.com/wp-content/uploads/2022/01/The-Batman.jpg",
+ "sinopse":"Bruce Wayne é um jovem bilionário da cidade de Gotham City, Nova Jersey, que também age secretamente como o vigilante noturno Batman após o assassinato dos seus pais.",
+ "trailer":"https://youtu.be/rsQEor4y2hg",
+ "date":"2022",
+ "genero":["Ação", "Aventura"],
+ "time":"3h 5m",
+ "categoria":"filme",
+ "url":"https://uauplayer.com/player/KuUhVXZHk93uqRR/",
+ "classificacion":"12"
 }
