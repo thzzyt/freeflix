@@ -1,6 +1,7 @@
 {
 "name": "Resgate",
 "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVHRz73_FI29e3jxVwKUgcJMhwpKui6KBLyw&usqp=CAU",
+"img2":"",
 "sinopse": "Contratado para resgatar o filho de um traficante, um mercenário se apega ao garoto e começa a questionar as próprias escolhas. E agora, quem vai salvar quem?",
 "trailer": "https://youtu.be/j-OSa-cySXI",
 "date": "2020",
@@ -15,6 +16,7 @@
 {
 "name":"Esquadrão 6",
 "img":"https://1.bp.blogspot.com/-VsnXvJxaNjA/XgaP8LzdOUI/AAAAAAAAAB0/9nvwJ6XUdSgjQv6egkkzafs0Kut59_Z-QCLcBGAsYHQ/s1600/Esquadr%25C3%25A3o%2B6.jpg",
+"img2":"",
 "sinopse":"Após forjar a própria morte, um bilionário monta uma equipe de profissionais internacionais para a ousada e sanguinária missão de derrubar um ditador cruel.",
 "trailer":"https://youtu.be/8hDdnYlNUZ4",
 "date":"2019",
@@ -29,6 +31,7 @@
 {
 "name": "Homem-Aranha: Sem volta para casa",
 "img": "https://i.ibb.co/Q9q0V9Q/FCVsn-GYXo-AABY28.jpg",
+"img2":"",
 "sinopse": "Peter Parker é desmascarado e não consegue mais separar sua vida normal dos grandes riscos de ser um super-herói. Quando ele pede ajuda ao Doutor Estranho, os riscos se tornam ainda mais perigosos, e o forçam a descobrir o que realmente significa ser o Homem-Aranha.",
 "trailer": "https://youtu.be/CyiiEJRZjSU",
 "date": "2021",
@@ -43,6 +46,7 @@
 {
  "name":"Uncharted: Fora do Mapa",
  "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDHKHjmjnfN-RvbZIdh9ktirkahPi5_2Rp4NvV2-GiGrZl6k5OagLSQeF-&s=10",
+ "img2":"",
  "sinopse":"Nathan Drake e seu parceiro canastrão Victor Sully Sullivan embarcam em uma perigosa busca para encontrar o maior tesouro jamais encontrado. Enquanto isso, eles também rastreiam pistas que podem levar ao irmão perdido de Nathan.",
  "trailer":"https://youtu.be/hR0U_o7m1MA",
  "date":"2022",
@@ -57,6 +61,7 @@
 {
  "name":"O Projeto Adam",
  "img":"https://seuladogeek.com.br/wp-content/uploads/2022/03/O-Projeto-Adam-filme-Netflix-700x980.jpg",
+ "img2":"",
  "sinopse":"Um viajante do tempo volta ao ano de 2022 por acidente e acaba se encontrando com seu eu mais novo. Juntos, e sendo caçados por forças do futuro, os dois embarcam em uma missão para consertar a linha temporal e salvar seus entes queridos.",
  "trailer":"https://youtu.be/ykNjdamiXis",
  "date":"2022",
@@ -70,6 +75,7 @@
 },
 {
  "name":"The Batman",
+ "img2":"",
  "img":"https://jfccineplex.com/wp-content/uploads/2022/01/The-Batman.jpg",
  "sinopse":"Bruce Wayne é um jovem bilionário da cidade de Gotham City, Nova Jersey, que também age secretamente como o vigilante noturno Batman após o assassinato dos seus pais.",
  "trailer":"https://youtu.be/rsQEor4y2hg",
