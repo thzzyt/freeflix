@@ -39,4 +39,37 @@
  "epurl2":"https://embed.uauflix.online/tv/95396/1/9/dub","epurldrive":""}
 ],
 "classificacion": "16"
+},
+{
+"name":"Cavaleiro da Lua",
+"audio":"dublado",
+"img":"https://p2.trrsf.com/image/fget/cf/900/0/images.terra.com/2022/03/02/939372308-moonknightver3xlg.jpg",
+"img2":"https://www.meugamer.com/wp-content/uploads/2022/03/cavaleiro_da_lua_ja_disponivel.jpg",
+"sinopse":"Cavaleiro da Lua acompanha Steven Grant, um gentil e educado funcionário de uma loja de souvenir, que é atormentado com apagões e memórias de outra vida. Steven descobre que tem transtorno dissociativo de identidade e divide o corpo com o mercenário Marc Spector.",
+"trailer":"DFa0evfX96s",
+"date":"2022",
+"genero":[{"genero":"Ação"}],
+"temporadas":"1",
+"categoria":"serie",
+"temp1":[
+{"epname":"O Problema Do Peixe Dourado",
+ "epimg":"https://d17lbu6bbzbdc8.cloudfront.net/wp-content/uploads/2022/03/31083231/cavaleiro-da-lua-episodio-1-personagem-secreto-da-marvel-cameo-confirmado.webp","eptag":"T1-EP1","eptime":"45:32","epurl":"",
+ "epurl2":"https://embed.uauflix.online/tv/92749/1/1/dub","epurldrive":""},
+{"epname":"Invoque o Traje",
+ "epimg":"https://i0.wp.com/metagalaxia.com.br/wp-content/uploads/2022/04/cavaleiro-da-lua-ep-2-02-1.webp?ssl=1","eptag":"T1-EP2","eptime":"50:38","epurl":"",
+ "epurl2":"https://embed.uauflix.online/tv/92749/1/2/dub","epurldrive":""},
+{"epname":"O Tipo Amigável",
+ "epimg":"https://tm.ibxk.com.br/2022/04/13/13140958738290.jpg","eptag":"T1-EP3","eptime":"50:25","epurl":"",
+ "epurl2":"https://embed.uauflix.online/tv/92749/1/3/dub","epurldrive":""},
+{"epname":"A Tumba",
+ "epimg":"https://uploads.jovemnerd.com.br/wp-content/uploads/2022/04/cavaleiro_da_lua_episodio_4_recap__6s02x0c-1210x544.jpg","eptag":"T1-EP4","eptime":"51:04","epurl":"",
+ "epurl2":"https://embed.uauflix.online/tv/92749/1/4/dub","epurldrive":""},
+{"epname":"O Manicômio",
+ "epimg":"https://portalpopline.com.br/wp-content/uploads/2022/04/cavaleiro-da-lua-episodio-5-spoiler.jpg","eptag":"T1-EP5","eptime":"47:18","epurl":"",
+ "epurl2":"https://embed.uauflix.online/tv/92749/1/5/dub","epurldrive":""},
+{"epname":"Deuses e Monstros",
+ "epimg":"https://i0.wp.com/metagalaxia.com.br/wp-content/uploads/2022/04/cavaleiro-da-lua-ep-6-01-_1_.webp?&ssl=1","eptag":"T1-EP6","eptime":"42:27","epurl":"",
+ "epurl2":"https://embed.uauflix.online/tv/92749/1/6/dub","epurldrive":""},
+],
+"classificacion": "16"
 }
