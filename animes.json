@@ -55,9 +55,41 @@
 "date":"2018",
 "genero": [{"genero":"Drama"}],
 "time":"1h 35m",
-"categoria":"",
+"categoria":"filme",
 "url":"",
 "url2":"",
 "urldrive":"https://drive.google.com/file/d/1AHumGPI0LdELh0YFYuqHSvtXiaLsMJnV/view",
+"classificacion":""
+},
+{
+"name":"Palavras que Borbulham como Refrigerante"
+,"audio":"Dublado",
+"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqgfHjoahiZfn-M299HMPGiEhzJvNdFHfR4A&usqp=CAU",
+"img2":"",
+"sinopse":"Um garoto que escreve poemas haikai e uma garota alegre se conhecem e passam um verão mágico juntos.",
+"trailer":"Sfu6cplThgQ",
+"date":"2020",
+"genero": [{"genero":"Romance"}, {"genero":"Drama"}],
+"time":"1h 27m",
+"categoria":"filme",
+"url":"https://drive.google.com/file/d/1ti0rfyz850iNi_QktS4FausMKVSFIJ6S/view",
+"url2":"",
+"urldrive":"",
+"classificacion":""
+},
+{
+"name":"Your Name"
+,"audio":"Dublado",
+"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_R8reP3ktNLC3ylMyK9Qw7A56whEE1Vc9_7qviVzITK2k0Cp-zJMZmeM&s=10",
+"img2":"",
+"sinopse":"Mitsuha é a filha do prefeito de uma pequena cidade, mas sonha em tentar a sorte em Tóquio. Taki trabalha em um restaurante em Tóquio e deseja largar o seu emprego. Os dois não se conhecem, mas estão conectados pelas imagens de seus sonhos.",
+"trailer":"3KR8_igDs1Y",
+"date":"2021",
+"genero": [{"genero":"Romance"}, {"genero":"Fantasia"}],
+"time":"1h 42m",
+"categoria":"filme",
+"url":"https://lightspeedst.net/s3/mp4/kimi-no-na-wa-dublado/hd/1.mp4",
+"url2":"",
+"urldrive":"",
 "classificacion":""
 }
