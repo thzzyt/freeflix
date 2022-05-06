@@ -91,19 +91,217 @@
 "classificacion": "16"
 },
 {
-"name":"Sex Education",
-"audio":"dublado",
-"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEgFR9R2GDJQATb0gfLBRAvVON41wJFbw8UA&usqp=CAU",
-"img2":"",
-"sinopse":"O inexperiente Otis entede tudo de aconselhamento sexual, graças à sua mãe sexóloga. Ele se junta com a rebelde Maeve para abrir uma clínica de terapia sexual na escola.",
-"trailer":"46DLtYfJ6WI",
-"date":"2022",
-"genero":[{"genero":"Comédia"},{"genero":"Romance"}],
-"temporadas":"3",
-"categoria":"serie",
-"temp1":[
-{"epname":"Epiaodio 1","epimg":"","eptag":"T1-EP1","eptime":"00:00","epurl":"","epurl2":"",
- "epurldrive":"https://drive.google.com/file/d/1e8c0-R4k362oQNDIGKuq5oyFZhYfZhIH/view"}
-],
-"classificacion": "18"
+  "name": "Sex Education",
+  "audio": "dublado",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEgFR9R2GDJQATb0gfLBRAvVON41wJFbw8UA&usqp=CAU",
+  "img2": "https://www.justwatch.com/images/backdrop/165542300/s1440/temporada-1.webp",
+  "sinopse": "O inexperiente Otis entede tudo de aconselhamento sexual, graças à sua mãe sexóloga. Ele se junta com a rebelde Maeve para abrir uma clínica de terapia sexual na escola.",
+  "trailer": "46DLtYfJ6WI",
+  "date": "2019",
+  "genero": [
+    {
+      "genero": "Comédia"
+    },
+    {
+      "genero": "Romance"
+    }
+  ],
+  "temporadas": "3",
+  "categoria": "serie",
+  "temp1": [
+    {
+      "epname": "Episódio 1",
+      "epimg": "",
+      "eptag": "T1-EP1",
+      "eptime": "52:06",
+      "epurl": "",
+      "epurl2": "",
+      "epurldrive": "https://drive.google.com/file/d/1e8c0-R4k362oQNDIGKuq5oyFZhYfZhIH/view"
+    },
+    {
+      "epname": "Episódio 2",
+      "epimg": "",
+      "eptag": "T1-EP3",
+      "eptime": "49:50",
+      "epurl": "",
+      "epurl2": "",
+      "epurldrive": "https://drive.google.com/file/d/1iyGJdVccxlE2vJOQfL1yLmAthYftiz3J/view"
+    },
+    {
+      "epname": "Episódio 3",
+      "epimg": "",
+      "eptag": "T1-EP3",
+      "eptime": "50:54",
+      "epurl": "",
+      "epurl2": "",
+      "epurldrive": "https://drive.google.com/file/d/1CwXG1-nGzkUcHXBgxSHZIPCapW1r3a5K/view"
+    },
+    {
+      "epname": "Episódio 4",
+      "epimg": "",
+      "eptag": "T1-EP4",
+      "eptime": "47:02",
+      "epurl": "",
+      "epurl2": "",
+      "epurldrive": "https://drive.google.com/file/d/1CjGMpw6kGMw19jvyPSJfNRb9-JlQt-JM/view"
+    },
+    {
+      "epname": "Episódio 5",
+      "epimg": "",
+      "eptag": "T1-EP5",
+      "eptime": "51:16",
+      "epurl": "",
+      "epurl2": "",
+      "epurldrive": "https://drive.google.com/file/d/1e8e-9sUh6Q2wKLlBCzYt0V-6_ZIbxv4c/view"
+    }
+  ],
+  "temp2": [
+    {
+      "epname": "Episódio 1",
+      "epimg": "",
+      "eptag": "T2-EP1",
+      "eptime": "50:45",
+      "epurl": "",
+      "epurl2": "",
+      "epurldrive": "https://drive.google.com/file/d/1vyOUwmGi5h_jIraNLz_3SeBeK66dBwCq/view"
+    },
+    {
+      "epname": "Episódio 2",
+      "epimg": "",
+      "eptag": "T2-EP2",
+      "eptime": "48:56",
+      "epurl": "",
+      "epurl2": "",
+      "epurldrive": "https://drive.google.com/file/d/1KxyB8scQfGHDzIWMciGpCQj3wXd9rkNQ/view"
+    },
+    {
+      "epname": "Episódio 3",
+      "epimg": "",
+      "eptag": "T2-EP3",
+      "eptime": "51:10",
+      "epurl": "",
+      "epurl2": "",
+      "epurldrive": "https://drive.google.com/file/d/16d4RbC7u2pTLfj1QTMVug4V7N7BEYlJr/view"
+    },
+    {
+      "epname": "Episódio 4",
+      "epimg": "",
+      "eptag": "T2-EP4",
+      "eptime": "53:08",
+      "epurl": "",
+      "epurl2": "",
+      "epurldrive": "https://drive.google.com/file/d/19Q3sKMCJdzgIknvOFiQJnkeDfcWJd1CV/view"
+    },
+    {
+      "epname": "Episódio 5",
+      "epimg": "",
+      "eptag": "T2-EP5",
+      "eptime": "54:39",
+      "epurl": "",
+      "epurl2": "",
+      "epurldrive": "https://drive.google.com/file/d/1e8e-9sUh6Q2wKLlBCzYt0V-6_ZIbxv4c/view"
+    },
+    {
+      "epname": "Episódio 6",
+      "epimg": "",
+      "eptag": "T2-EP6",
+      "eptime": "49:55",
+      "epurl": "",
+      "epurl2": "",
+      "epurldrive": "https://drive.google.com/file/d/1P_ZUo_cUzCpZkUVvAdm2qP3EnBTcStaM/view"
+    },
+    {
+      "epname": "Episódio 7",
+      "epimg": "",
+      "eptag": "T2-EP7",
+      "eptime": "49:55",
+      "epurl": "",
+      "epurl2": "",
+      "epurldrive": "https://drive.google.com/file/d/1YnA2JFobdCpMk_BKdvisN9h6FizjHrZe/view"
+    },
+    {
+      "epname": "Episódio 8",
+      "epimg": "",
+      "eptag": "T2-EP8",
+      "eptime": "59:32",
+      "epurl": "",
+      "epurl2": "",
+      "epurldrive": "https://drive.google.com/file/d/1yZiRB55yJPfcleCncNyPP17BuXJFrDSX/view"
+    }
+  ],
+  "temp3": [
+    {
+      "epname": "Episódio 1",
+      "epimg": "",
+      "eptag": "T3-EP1",
+      "eptime": "54:15",
+      "epurl": "",
+      "epurl2": "",
+      "epurldrive": "https://drive.google.com/file/d/10-2Mx8OUByzmha5i3THkJ_1Gqw458-2N/view"
+    },
+    {
+      "epname": "Episódio 2",
+      "epimg": "",
+      "eptag": "T3-EP2",
+      "eptime": "1:00:41",
+      "epurl": "",
+      "epurl2": "",
+      "epurldrive": "https://drive.google.com/file/d/1063XdDrOFh9pJk7bW5_OVC_2N7uabYxR/view"
+    },
+    {
+      "epname": "Episódio 3",
+      "epimg": "",
+      "eptag": "T2-EP3",
+      "eptime": "53:07",
+      "epurl": "",
+      "epurl2": "",
+      "epurldrive": "https://drive.google.com/file/d/10CwaJcMTgTY7Jg6cX_6kRlN6fA0gOQ2S/view"
+    },
+    {
+      "epname": "Episódio 4",
+      "epimg": "",
+      "eptag": "T3-EP4",
+      "eptime": "53:46",
+      "epurl": "",
+      "epurl2": "",
+      "epurldrive": "https://drive.google.com/file/d/1-BemoUsChJEnlHOe1VNIepNpPusyiv7c/view"
+    },
+    {
+      "epname": "Episódio 5",
+      "epimg": "",
+      "eptag": "T3-EP5",
+      "eptime": "54:59",
+      "epurl": "",
+      "epurl2": "",
+      "epurldrive": "https://drive.google.com/file/d/1-DO5Yo9rvGn6X66s5_aH7AS2Rtwy9hlP/view"
+    },
+    {
+      "epname": "Episódio 6",
+      "epimg": "",
+      "eptag": "T3-EP6",
+      "eptime": "58:49",
+      "epurl": "",
+      "epurl2": "",
+      "epurldrive": "https://drive.google.com/file/d/1-TCp8XAu0Jw7zAWUYx_8_HqzbbeRy03b/view"
+    },
+    {
+      "epname": "Episódio 7",
+      "epimg": "",
+      "eptag": "T3-EP7",
+      "eptime": "58:19",
+      "epurl": "",
+      "epurl2": "",
+      "epurldrive": "https://drive.google.com/file/d/10EMKzOMhk4bgnAd7UfjF9zldJpry0vxy/view"
+    },
+    {
+      "epname": "Episódio 8",
+      "epimg": "",
+      "eptag": "T3-EP8",
+      "eptime": "1:00:29",
+      "epurl": "",
+      "epurl2": "",
+      "epurldrive": "https://drive.google.com/file/d/10F6a4Jf3LCqeQBq1rRtgmNy3YgsiIRLs/view"
+    }
+  ],
+  "classificacion": "18"
 }
