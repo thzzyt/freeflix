@@ -89,4 +89,21 @@
  "epurldrive":"https://drive.google.com/file/d/1f2hhMa7guTs_OAZK26FriFSy0d3etu0Z/view"}
 ],
 "classificacion": "16"
+},
+{
+"name":"Sex Education",
+"audio":"dublado",
+"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEgFR9R2GDJQATb0gfLBRAvVON41wJFbw8UA&usqp=CAU",
+"img2":"",
+"sinopse":"O inexperiente Otis entede tudo de aconselhamento sexual, graças à sua mãe sexóloga. Ele se junta com a rebelde Maeve para abrir uma clínica de terapia sexual na escola.",
+"trailer":"46DLtYfJ6WI",
+"date":"2022",
+"genero":[{"genero":"Comédia"},{"genero":"Romance"}],
+"temporadas":"3",
+"categoria":"serie",
+"temp1":[
+{"epname":"Epiaodio 1","epimg":"","eptag":"T1-EP1","eptime":"00:00","epurl":"","epurl2":"",
+ "epurldrive":"https://drive.google.com/file/d/1e8c0-R4k362oQNDIGKuq5oyFZhYfZhIH/view"}
+],
+"classificacion": "18"
 }
