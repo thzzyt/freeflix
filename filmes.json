@@ -183,6 +183,38 @@
 "classificacion":""
 },
 {
+"name":"Zodíaco",
+"audio":"dublado",
+"img":"http://image.tmdb.org/t/p/w300//5tnuz3iLfeK7PJ8NK8OsnEOoczf.jpg",
+"img2":"http://image.tmdb.org/t/p/w780//jP2htGBHE7vKq4MLeC75UeC0sZH.jpg",
+"sinopse":"Durante os anos 60 e 70, o medo aumenta em São Francisco com os ataques de um assassino maníaco chamado Zodíaco. Investigadores e jornalistas tentam descobrir a identidade do assassino e levá-lo à justiça. Enquanto isso, Zodiac provoca as autoridades com mensagens crípticas, cifras e telefonemas ameaçadores.",
+"trailer":"NUdDkt179iY",
+"date":"2007",
+"genero": [{"genero":"Animação"}, {"genero":"Ação"}, {"genero":"Crime"}, {"genero":"Animação"}],
+"time":"2h 37m",
+"categoria":"filme",
+"url":"",
+"url2":"http://authentic-video.cloud/elon09.php?b=freak/dub/1949.mp4",
+"urldrive":"",
+"classificacion":"16"
+},
+{
+"name":"Na Balada do Amor",
+"audio":"dublado",
+"img":"http://image.tmdb.org/t/p/w300//mmprgFb80BRcKXEp36mjQXNlcec.jpg",
+"img2":"http://image.tmdb.org/t/p/w780//9ncipW2ZWBvzHZnRJH1BUMZHk3k.jpg",
+"sinopse":"Jimmy é um jovem viúvo que faz de tudo por suas filhas. Faith supera o fim de um relacionamento e luta para manter sua escola de dança. O destino e um concurso de dança acabam unindo os dois.",
+"trailer":"c6cF-aJREdg",
+"date":"2019",
+"genero": [{"genero":"Drama"}, {"genero":"Romance"}],
+"time":"1h 46m",
+"categoria":"filme",
+"url":"",
+"url2":"http://authentic-video.cloud/elon09.php?b=freak/dub/581998.mp4",
+"urldrive":"",
+"classificacion":"livre"
+},
+{
 "name":"Chernobyl: O Filme - Os Segredos do Desastre"
 ,"audio":"Dublado",
 "img":"https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQWCRB9ICWDb4L2NUHgO45W6btcXkvDZwWHoxw_PjJXEj_huHO-",
@@ -190,7 +222,7 @@
 "sinopse":"Após o terrível acidente nuclear na usina de Chernobyl, um bombeiro arrisca sua vida para evitar um desastre ainda maior. Ao lado de um engenheiro e um mergulhador militar, eles partem na perigosa missão de drenar a água de um reator em chamas.",
 "trailer":"e4DPWeOMvIU",
 "date":"2021",
-"genero": [{"genero":"Drama"}, {"genero":"Romance"}],
+"genero": [{"genero":"Drama"}, {"genero":"Documentario"}],
 "time":"2h 16m",
 "categoria":"filme",
 "url":"https://videos.negociosmarkeitng.com/file/Spxnet/f/Chernobyl%20-%20O%20Filme%202021%201080p%20BluRay%20DUAL.mkv",
